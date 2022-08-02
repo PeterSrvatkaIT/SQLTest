@@ -30,12 +30,5 @@
       <jdbc-url>jdbc:postgresql://localhost:5432/obce</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="testSQL20220802" uuid="f7f748e5-5183-4e1b-9fbe-e7e5c5a88a44">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/testSQL20220802</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
   </component>
 </project>
